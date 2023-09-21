@@ -1,0 +1,1 @@
+* All the html files should keep inside the template folder*
